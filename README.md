@@ -1,1 +1,3 @@
-# JS-image-gallery-practice
+# JS-image-gallery-practiceFor Mozilla's intro to JS 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery
+https://swilliams2099.github.io/JS-image-gallery-assessment/
