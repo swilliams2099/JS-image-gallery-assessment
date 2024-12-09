@@ -1,1 +1,1 @@
-# JS-image-gallery-assessment
+# JS-image-gallery-practice
