@@ -1,0 +1,1 @@
+# JS-image-gallery-assessment
